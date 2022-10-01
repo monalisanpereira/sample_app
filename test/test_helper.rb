@@ -11,4 +11,5 @@ class ActiveSupport::TestCase
   # すべてのテストがアルファベット順に実行されるよう、
   #test/fixtures/*.ymlにあるすべてのfixtureをセットアップする
   fixtures :all
+  include ApplicationHelper
 end
