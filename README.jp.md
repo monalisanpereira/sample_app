@@ -44,3 +44,5 @@ $ rails server
 
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
+
+アクセスは[こちら](https://sample-app-by-monalisa.herokuapp.com/)です。
