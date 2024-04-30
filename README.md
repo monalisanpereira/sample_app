@@ -44,5 +44,3 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
-
-Access my version of the app [here](https://sample-app-by-monalisa.herokuapp.com/).
